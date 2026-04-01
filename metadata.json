@@ -1,0 +1,5 @@
+{
+  "name": "Sijambi-Pora",
+  "description": "Web-GIS system for Jambi Immigration Office to map work areas and vulnerable points for foreigners with 2FA security.",
+  "requestFramePermissions": []
+}
